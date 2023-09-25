@@ -149,7 +149,7 @@ Tʜɪs Mᴏᴅᴜʟᴇ Oɴʟʏ Wᴏʀᴋs Fᴏʀ Mʏ Aᴅᴍɪɴs
 
 ◉ ʙʏ: @{}</b>"""
 
-    CAPTION = """<b>𝒇𝒊𝒍𝒆 𝒏𝒂𝒎𝒆 - {file_name}</b>""" 
+    CAPTION = """<b>{file_name}</b>""" 
     
     GROUPMANAGER_TXT = """<b>Hᴇʟᴩ Fᴏʀ GʀᴏᴜᴩMᴀɴᴀɢᴇʀ</b>
 
