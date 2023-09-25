@@ -147,6 +147,12 @@ Tʜɪs Mᴏᴅᴜʟᴇ Oɴʟʏ Wᴏʀᴋs Fᴏʀ Mʏ Aᴅᴍɪɴs
 ◉ ᴜꜱᴇʀɴᴀᴍᴇ: @{}
 
 ◉ ʙʏ: @{}</b>"""
+
+    CAPTION = """
+<b>
+𝒇𝒊𝒍𝒆 𝒏𝒂𝒎𝒆 - {file_name}
+
+𝒇𝒊𝒍𝒆 𝒔𝒊𝒛𝒆 - {file_size}</b>"""
   
     GROUPMANAGER_TXT = """<b>Hᴇʟᴩ Fᴏʀ GʀᴏᴜᴩMᴀɴᴀɢᴇʀ</b>
 
