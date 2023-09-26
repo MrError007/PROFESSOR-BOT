@@ -149,7 +149,9 @@ Tʜɪs Mᴏᴅᴜʟᴇ Oɴʟʏ Wᴏʀᴋs Fᴏʀ Mʏ Aᴅᴍɪɴs
 
 ◉ ʙʏ: @{}</b>"""
 
-    CAPTION = """<b>{file_name}</b>""" 
+    CAPTION = """<b>{file_name}
+    
+    Join ❤️ @Movies_Zone_Media</b>""" 
     
     GROUPMANAGER_TXT = """<b>Hᴇʟᴩ Fᴏʀ GʀᴏᴜᴩMᴀɴᴀɢᴇʀ</b>
 
