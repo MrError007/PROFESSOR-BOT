@@ -151,7 +151,7 @@ Tʜɪs Mᴏᴅᴜʟᴇ Oɴʟʏ Wᴏʀᴋs Fᴏʀ Mʏ Aᴅᴍɪɴs
 
     CAPTION = """<b>{file_name}
     
-    Join ❤️ @Movies_Zone_Media</b>""" 
+Join ❤️ @Movies_Zone_Media</b>""" 
     
     GROUPMANAGER_TXT = """<b>Hᴇʟᴩ Fᴏʀ GʀᴏᴜᴩMᴀɴᴀɢᴇʀ</b>
 
